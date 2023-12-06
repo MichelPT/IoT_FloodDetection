@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "922229473379",
+    "firebase_url": "https://flooddetectioniot-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flooddetectioniot",
+    "storage_bucket": "flooddetectioniot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922229473379:android:6e644b3d99e0af01caf856",
+        "android_client_info": {
+          "package_name": "com.example.flood_detection_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiHxlZ0oeJjB0F0tKNrnDJqoQQE5eQdb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
